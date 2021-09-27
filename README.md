@@ -1,5 +1,5 @@
 # Newsletter_Signup
-📰A simple newsletter signup page to allow users to add themselves in the mailing list to receive monthly emails on new tech.
+📰A simple newsletter signup page to allow users to add themselves in the mailing list to receive emails on new tech.
 
 # Tools Used
 1. HTML5, CSS3, Bootstrap, Node.js, Express.js, JavaScript
@@ -16,3 +16,6 @@
 # After successful sign-up
 1. Users data get added to mailchimp server.
 2. Now user will receive all the mails from the org.
+
+# Laptop version
+![](/images/logo.png)
